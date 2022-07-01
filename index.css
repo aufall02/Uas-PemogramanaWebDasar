@@ -235,6 +235,7 @@ footer{
     text-align: center;
     line-height: 40px;
     position: fixed;
+    bottom: 0;
 }
 
 
