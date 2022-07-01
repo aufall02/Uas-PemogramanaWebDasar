@@ -142,6 +142,10 @@ table {
   tr:nth-child(even) {
     background-color: #dddddd;
   }
+  tr:hover {
+  background-color: #c3c2c2;
+  }
+
 form{
     margin: auto;
     padding: 0px 10px;
