@@ -167,6 +167,7 @@ textarea{
     border: none;
     border-radius: 3px;
     max-width: 100%;
+   resize: none;
 }
 
 input{
